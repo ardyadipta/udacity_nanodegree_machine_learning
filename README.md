@@ -1,1 +1,1 @@
-# udacity_nanodegree_machine_learning
+# Udacity Nanodegree in Machine Learning
