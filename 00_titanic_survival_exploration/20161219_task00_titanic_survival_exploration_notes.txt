@@ -1,0 +1,44 @@
+2016 December 19
+
+# Title
+Titanic Survival Exploration
+
+# Description
+In this optional project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
+
+#Link
+https://classroom.udacity.com/nanodegrees/nd009/parts/0091345401/modules/742385084875460/lessons/7423850848239847/concepts/97f4fcc6-acf4-47dd-9f2c-d3695fc30c87#
+
+# Notes
+## Software setup
+* Check if numpy is installed:
+
+try:
+	import numpy
+except ImportError:
+	print "numpy is not installed"
+
+* Install anaconda:
+	Download command line installer from this website:
+		https://repo.continuum.io/archive/Anaconda2-4.2.0-MacOSX-x86_64.sh
+
+	Run:
+	bash Anaconda2-4.2.0-MacOSX-x86_64.sh
+
+* Restart the terminal, then install pandas
+	conda install pandas
+
+* Install pip from this link: https://bootstrap.pypa.io/get-pip.py
+	python get-pip.py
+
+* Make sure that everything installed:
+	pip install --user numpy pandas matplotlib jupyter
+
+## Project setup
+* Go to link: https://github.com/udacity/machine-learning
+* Download all projects' data
+	git clone https://github.com/udacity/machine-learning
+
+	go to projects/titanic...
+
+
